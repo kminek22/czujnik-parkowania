@@ -2,6 +2,10 @@
 
 ![Zdjęcie układu](docs/4a528b36-7cd1-49ef-ac27-67e3cb21536a.mov4b1e466b-394f-4119-bee9-ac4b335cdfe5.jpeg)
 
+
+https://github.com/user-attachments/assets/3df1ce6f-af3b-4e4e-baed-234bc4f98d24
+
+
 Ultradźwiękowy czujnik odległości na **ESP32 (NodeMCU-32S)**, działający jak czujnik parkowania w samochodzie:
 - **OLED SSD1306** pokazuje odległość w centymetrach i animację klepsydry,
 - **pasek 5 diod LED** zapala się tym bardziej, im bliżej jest przeszkoda,
