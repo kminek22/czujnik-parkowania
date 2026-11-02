@@ -1,6 +1,6 @@
 # Czujnik parkowania – ESP32 + HC-SR04 + OLED + LED
 
-![Zdjęcie układu](docs/4a528b36-7cd1-49ef-ac27-67e3cb21536a.mov4b1e466b-394f-4119-bee9-ac4b335cdfe5.jpeg)
+![Zdjęcie układu](docs/photo.jpeg)
 
 Ultradźwiękowy czujnik odległości na **ESP32 (NodeMCU-32S)**, działający jak czujnik parkowania w samochodzie:
 - **OLED SSD1306** pokazuje odległość w centymetrach i animację klepsydry,
